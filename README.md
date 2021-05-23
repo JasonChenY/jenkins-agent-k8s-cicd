@@ -1,4 +1,4 @@
-# master test trigger 4
+# master test trigger 5
 主要存放 jenkins master 的 yaml 文件，用于各种云环境
 # 一、背景介绍
 目前很多企业应用都已经容器化，版本发布比较多，构建的次数也比较多，相对于之前单台 jenkins 有了很大的挑战
